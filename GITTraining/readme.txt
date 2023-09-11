@@ -6,3 +6,5 @@ High Level Steps in managing the code changes
 3. Staging changes - git add file/folder
 4. Commit changes - git commit -m "Commit message"
 5. Push your files - git push origin branchName
+
+https://education.github.com/git-cheat-sheet-education.pdf
